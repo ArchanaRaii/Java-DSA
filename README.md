@@ -13,3 +13,9 @@ I will be updating this repository regularly as I progress through each topic. E
 **🤝 Contributions**
 
 While this is a personal learning repository, I welcome suggestions, improvements, or discussions. Feel free to open an issue or submit a pull request.
+
+**📬 Contact**
+
+If you have any questions or would like to connect, feel free to reach out via my LinkedIn.
+
+**Happy Coding! 🚀**

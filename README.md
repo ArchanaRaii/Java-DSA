@@ -10,6 +10,13 @@ This repository chronicles my exploration of DSA concepts, implemented in Java. 
 
 I will be updating this repository regularly as I progress through each topic. Each update will include new problem solutions and any insights gained.
 
+**Big O**
+* It is a way of comparing code 1 and code 2 mathematically about how effiecient they run.
+* **Time Complexity** :
+  * Best case is represented by (Ω) is the minimum time taken.
+  * Average case is represented by (Θ) is expected or typical time taken.
+  * Worst case is represenetd by (O (Big-O)) is maximum time taken.
+
 **🤝 Contributions**
 
 While this is a personal learning repository, I welcome suggestions, improvements, or discussions. Feel free to open an issue or submit a pull request.

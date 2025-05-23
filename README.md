@@ -16,7 +16,9 @@ I will be updating this repository regularly as I progress through each topic. E
   * Best case is represented by (Ω) is the minimum time taken.
   * Average case is represented by (Θ) is expected or typical time taken.
   * Worst case is represenetd by (O (Big-O)) is maximum time taken.
- ![image](https://github.com/user-attachments/assets/f1f34270-2aa2-4040-9f98-78ce1aa8b5c8)
+![image](https://github.com/user-attachments/assets/f1f34270-2aa2-4040-9f98-78ce1aa8b5c8)
+![image](https://github.com/user-attachments/assets/06d2a7f7-70c5-4615-bd00-5490d5ebc0d7)
+
 
 
 

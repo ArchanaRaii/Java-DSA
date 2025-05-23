@@ -5,8 +5,7 @@ public class Main {
            System.out.println(i);
        }
    }
-
-    // DO NOT CHANGE THE MAIN METHOD BELOW
+   
     public static void main(String[] args) {
         printItems(10);
     }

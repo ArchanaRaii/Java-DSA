@@ -11,7 +11,6 @@ public class Main {
      
    }
 
-    // DO NOT CHANGE THE MAIN METHOD BELOW
     public static void main(String[] args) {
         printItems(10);
     }

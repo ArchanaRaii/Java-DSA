@@ -9,13 +9,12 @@ public boolean insert(int index, int value){
 	    }else{
 	        Node newNode = new Node(value);
 	        Node before = get(index-1);
-	        after = before.next;
+	        Node after = before.next;
 	        newNode.next = after;
 	        newNode.prev = before;
 	        before.next = newNode;
 	        after.prev = newNode;
+	    	length++;
+	    	return true;
 	    }
-	    length++;
-	    return true;
-	    
 	}

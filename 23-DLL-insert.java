@@ -9,7 +9,6 @@ public boolean insert(int index, int value){
 	    }else{
 	        Node newNode = new Node(value);
 	        Node before = get(index-1);
-	        Node after = get(index+1);
 	        after = before.next;
 	        newNode.next = after;
 	        newNode.prev = before;
